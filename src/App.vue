@@ -11,6 +11,7 @@ const author = reactive({
 });
 const dynmicId = reactive({
     name:'ddddd',
+    user: '111'
 })
 
 const publishedBooksMessage = computed(() => {  
